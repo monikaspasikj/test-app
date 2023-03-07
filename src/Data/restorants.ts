@@ -95,29 +95,29 @@ export const RESTORANTS: IRestorant[] = [
         name:"Vizijana",
         city:"Kumanovo",
         webSiteUrl:"/",
-        imageUrl:"https://10619-2.s.cdn12.com/rests/original/306_509371697.jpg",
-        address:"Kej Makedonija 91 A, Ohrid 6000"
+        imageUrl:"https://fastly.4sqi.net/img/general/600x600/23424446_vFIrY271P2hlIwj_V2ZVD7n0Z9_cBHthHZF1Y6i4fow.jpg",
+        address:"4VJ7+RVM, Vojnik"
     },
     {
         name: "Restoran Esnaf",
         city:"Shtip",
         webSiteUrl:"/",
-        imageUrl:"https://10619-2.s.cdn12.com/rests/original/306_509371697.jpg",
-        address:"Kej Makedonija 91 A, Ohrid 6000"
+        imageUrl:"https://img.restaurantguru.com/r00a-Restoran-Bulevar-pizza.jpg",
+        address:"Bul.Goce Delcev br.34, Shtip 2000"
     },
    {
         name:"Gostilnica Cuna",
         city:"Shtip",
         webSiteUrl:"/",
-        imageUrl:"https://10619-2.s.cdn12.com/rests/original/306_509371697.jpg",
-        address:"Kej Makedonija 91 A, Ohrid 6000"
+        imageUrl:"https://img.restaurantguru.com/c1ae-Restaurant-Gostilnica-CUNA-design.jpg",
+        address:"Еврејска 15, Shtip 2000"
    },
     {
         name:"Vodenica Kaj Jove",
         city:"Shtip",
         webSiteUrl:"/",
-        imageUrl:"https://10619-2.s.cdn12.com/rests/original/306_509371697.jpg",
-        address:"Kej Makedonija 91 A, Ohrid 6000"
+        imageUrl:"https://vodenicata.emenu.mk/img/restoran/restoran.jpg",
+        address:"Bregalnicka 1, Komuna e Shtipit 2000 MK, Shtip 2000"
     },
     {
         name:"Gostilnica Kaj Spiro",
