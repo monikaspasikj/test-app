@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+npm install -g @angular/cliimport { Component } from '@angular/core';
 
 
 @Component({
