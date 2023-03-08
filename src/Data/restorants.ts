@@ -123,40 +123,40 @@ export const RESTORANTS: IRestorant[] = [
         name:"Gostilnica Kaj Spiro",
         city:"Kratovo",
         webSiteUrl:"/",
-        imageUrl:"https://10619-2.s.cdn12.com/rests/original/306_509371697.jpg",
-        address:"Kej Makedonija 91 A, Ohrid 6000"
+        imageUrl:"https://kajak.mk/static/eb4a6dbd-3514-402f-cf62-c69df680cc4a.jpg",
+        address:"Saint George of Kratovo 3, Kratovo 1360"
     },
     {
         name:"Kratovski Merak",
         city:"Kratovo",
         webSiteUrl:"/",
-        imageUrl:"https://10619-2.s.cdn12.com/rests/original/306_509371697.jpg",
-        address:"Kej Makedonija 91 A, Ohrid 6000"
+        imageUrl:"https://img.restaurantguru.com/r259-Gostilnica-Kratovski-Merak-interior.jpg",
+        address:"3-ta Makedonska Udarna Brigada 7, Kratovo"
     },
     {
         name:"Kuklica Etno Restoran",
         city:"Kratovo",
         webSiteUrl:"/",
-        imageUrl:"https://10619-2.s.cdn12.com/rests/original/306_509371697.jpg",
-        address:"Kej Makedonija 91 A, Ohrid 6000"
+        imageUrl:"https://fastly.4sqi.net/img/general/600x600/69605932_dm4AujfjY1WVa_qBf1ETrJel13FQ8-Q8D4Aj_GKenfw.jpg",
+        address:"Kratovo S MK, Kuklitsa 1360"
     },
     {
         name:"Restoran MRS",
         city:"Berovo",
-        webSiteUrl:"/",
-        imageUrl:"https://10619-2.s.cdn12.com/rests/original/306_509371697.jpg",
-        address:"Kej Makedonija 91 A, Ohrid 6000"
+        webSiteUrl:"https://restoranmrs.com/",
+        imageUrl:"https://visitmacedonia.eu/wp-content/uploads/2019/09/MRS.jpg",
+        address:"Restaurant, Marshal Tito 130, Berovo 2330"
     },
     {
         name:"Loven dom Berovo",
         city:"Berovo",
         webSiteUrl:"/",
-        imageUrl:"https://10619-2.s.cdn12.com/rests/original/306_509371697.jpg",
-        address:"Kej Makedonija 91 A, Ohrid 6000"
+        imageUrl:"https://metatet.com/wp-content/uploads/photos/Loven-dom-Berovo_metatet-1.jpg",
+        address:"Turisticka 9, Berovo 2330"
     }
 ]
 
-interface IRestorant {
+export interface IRestorant {
     name: string;
     city:string;
     webSiteUrl:string;
